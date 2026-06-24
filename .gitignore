@@ -1,0 +1,9 @@
+# Carpetas del editor
+.vscode/
+
+# Dependencias (si más adelante se usa Node.js)
+node_modules/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
